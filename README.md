@@ -1,4 +1,4 @@
-This repository contains the my reimplemented version (minimal) to reproduce the results presented in the paper
+This repository contains my reimplemented version (minimal) to reproduce the results presented in the paper
 
 `GenDICE: Generalized Offline Estimation of Stationary Values' 
 
